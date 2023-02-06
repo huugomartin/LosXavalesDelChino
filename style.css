@@ -1,4 +1,18 @@
-body{
-    background-color:rgb(255, 238, 0);
-    color:black
+body {
+    background-color: rgb(255, 238, 0);
+    color: black
+}
+
+h1{
+    text-align: center;
+}
+.class1 {
+    width: 17cm;
+    height: 10cm;
+}
+
+.icono1 {
+    height: 1.4cm;
+    width: 1.4cm;
+    border-width: 0.6cm;
 }
