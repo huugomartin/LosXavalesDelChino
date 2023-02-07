@@ -6,11 +6,14 @@ body {
 h1{
     text-align: center;
 }
-.class1 {
-    width: 17cm;
-    height: 10cm;
-}
 
+.class1 {
+    width: 12cm;
+    height: 14cm;
+}
+.class2{
+   margin-left: 150px;
+}
 .icono1 {
     height: 1.4cm;
     width: 1.4cm;
