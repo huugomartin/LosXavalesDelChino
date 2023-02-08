@@ -1,19 +1,21 @@
 body {
     background-color: rgb(255, 238, 0);
-    color: black
+    color: black;
+    text-align: center;
+
 }
 
 h1 {
     text-align: center;
 }
 
+ul {
+    list-style: none;
+}
+
 .class1 {
     width: 12cm;
     height: 14cm;
-}
-
-.class2 {
-    margin-left: 150px;
 }
 
 .class3 {
@@ -35,6 +37,18 @@ h1 {
     text-align: center;
 }
 
+.class7 {
+    width: 6cm;
+    height: 6cm;
+}
+
+.class8 {
+    margin-left: 10%;
+    width: 80%;
+
+
+}
+
 .icono1 {
     height: 1.4cm;
     width: 1.4cm;
@@ -42,11 +56,11 @@ h1 {
 }
 
 .icono2 {
-    height: 1.2cm;
-    width: 1.2cm;
+    height: 1.5cm;
+    width: 1.5cm;
 }
 
-.class6 {
-    height: 7cm;
-    width: 3cm
+.icono3 {
+    height: 1.1cm;
+    width: 1.1cm;
 }
