@@ -14,8 +14,24 @@ h1{
 .class2{
    margin-left: 150px;
 }
+.class3 {
+    height: 100%;
+    width: 100%;
+}
+.class4 {
+    height: 8cm;
+    width: 6cm;
+}
 .icono1 {
     height: 1.4cm;
     width: 1.4cm;
     border-width: 0.6cm;
+}
+.icono2 {
+    height: 1.2cm;
+    width: 1.2cm;
+}
+.class6 {
+    height: 7cm;
+    width: 3cm;
 }
