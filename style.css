@@ -14,8 +14,12 @@ ul {
 }
 
 .class1 {
-    width: 12cm;
-    height: 14cm;
+    width: 11cm;
+    height: 13cm;
+}
+
+.class2 {
+    font-size: larger;
 }
 
 .class3 {
